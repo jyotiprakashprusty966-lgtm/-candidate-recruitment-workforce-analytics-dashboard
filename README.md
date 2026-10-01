@@ -21,7 +21,7 @@ Candidate-Recruitment-Workforce-Analytics-Dashboard/
 │   └── First_PowerBi_DashBoard.pbix
 │
 ├── screenshots/
-│   └── dashboard.png
+│   └── Dashboard.png
 │
 └── README.md
 ```
