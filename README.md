@@ -212,7 +212,7 @@ CALCULATE(
 
 ## Dashboard Preview
 
-![Candidate Analytics Dashboard](screenshots/dashboard.png)
+![Candidate Analytics Dashboard](screenshots/Dashboard.png)
 
 ---
 
